@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./profile/logo.png" width="180" alt="GwenLand">
+<img src="./profile/logo.jpg" width="180" alt="GwenLand">
 # GwenLand
 Building software for AI, developer tools, and modern computing.
 
