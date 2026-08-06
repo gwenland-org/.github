@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.jpg" width="180" alt="GwenLand" style="border-radius: 20px" width="300">
+<img src="../logo.jpg" width="180" alt="GwenLand" style="border-radius: 20px" width="300">
 
 # GwenLand
 Building software for AI, developer tools, and modern computing.
